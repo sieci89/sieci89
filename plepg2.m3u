@@ -1,0 +1,349 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml" x-tvg-url="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 SD" tvg-logo="https://epg.ovh/logo/TVP+1.png" tvg-chno="1" channel-id="1" group-title="Undefined",TVP 1 SD
+http://89.187.179.242:12076
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 HD" tvg-logo="https://epg.ovh/logo/TVP+1.png" tvg-chno="2" channel-id="2" group-title="Undefined",TVP 1 HD
+http://178.219.128.68:64889/TVP1HD
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 SD" tvg-logo="https://epg.ovh/logo/TVP+2.png" tvg-chno="3" channel-id="3" group-title="Undefined",TVP 2 SD
+http://89.187.179.242:12077
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD" tvg-logo="https://epg.ovh/logo/TVP+2.png" tvg-chno="4" channel-id="4" group-title="Undefined",TVP 2 HD
+http://178.219.128.68:64889/TVP2HD
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale SD •" tvg-logo="https://static.epg.best/pl/TVPSeriale.pl.png" tvg-chno="5" channel-id="5" group-title="Undefined",TVP Seriale SD •
+https://cdn-nvm-chicago.lolokoko.tv/TVPSeriale.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info HD" tvg-logo="https://static.epg.best/pl/TVPInfo.pl.png" tvg-chno="6" channel-id="6" group-title="Undefined",TVP Info HD
+http://178.219.128.68:64889/TVPINFOHD
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport HD" tvg-logo="https://static.epg.best/pl/TVPSport.pl.png" tvg-chno="7" channel-id="7" group-title="Undefined",TVP Sport HD
+http://89.187.179.242:1530
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat SD" tvg-logo="https://static.epg.best/pl/Polsat.pl.png" tvg-chno="8" channel-id="8" group-title="Undefined",Polsat SD
+http://89.187.179.242:12080
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 SD" tvg-logo="https://static.epg.best/pl/Polsat2.pl.png" tvg-chno="9" channel-id="9" group-title="Undefined",Polsat 2 SD
+http://89.187.179.242:1582
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Café SD" tvg-logo="https://static.epg.best/pl/PolsatCafe.pl.png" tvg-chno="10" channel-id="10" group-title="Undefined",Polsat Café SD
+http://89.187.179.242:1698
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film SD •" tvg-logo="https://static.epg.best/pl/PolsatFilm.pl.png" tvg-chno="11" channel-id="11" group-title="Undefined",Polsat Film SD •
+https://cdn-nvm-chicago.lolokoko.tv/PolsatFilm.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 SD" tvg-logo="https://static.epg.best/pl/PolsatNews2.pl.png" tvg-chno="12" channel-id="12" group-title="Undefined",Polsat News 2 SD
+http://89.187.179.242:1581
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music SD •" tvg-logo="https://static.epg.best/pl/PolsatMusic.pl.png" tvg-chno="13" channel-id="13" group-title="Undefined",Polsat Music SD •
+https://cdn-nvm-chicago.lolokoko.tv/polsatmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN SD •" tvg-logo="https://static.epg.best/pl/TVN.pl.png" tvg-chno="14" channel-id="14" group-title="Undefined",TVN SD •
+https://cdn-nvm-chicago.lolokoko.tv/tvn.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN SD" tvg-logo="https://static.epg.best/pl/TVN.pl.png" tvg-chno="15" channel-id="15" group-title="Undefined",TVN SD
+http://89.187.179.242:12075
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 SD" tvg-logo="https://static.epg.best/pl/TVN7.pl.png" tvg-chno="16" channel-id="16" group-title="Undefined",TVN 7 SD
+http://89.187.179.242:1524
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD" tvg-logo="https://static.epg.best/pl/TVN7.pl.png" tvg-chno="17" channel-id="17" group-title="Undefined",TVN 7 HD
+http://178.219.128.68:64888/TVN7HD
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV SD" tvg-logo="https://static.epg.best/pl/TTV.pl.png" tvg-chno="18" channel-id="18" group-title="Undefined",TTV SD
+http://89.187.179.242:1525
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV HD" tvg-logo="https://static.epg.best/pl/TTV.pl.png" tvg-chno="19" channel-id="19" group-title="Undefined",TTV HD
+http://178.219.128.68:64889/TTVHD
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo SD" tvg-logo="https://static.epg.best/pl/TVNTurbo.pl.png" tvg-chno="20" channel-id="20" group-title="Undefined",TVN Turbo SD
+http://89.187.179.242:1528
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 SD" tvg-logo="https://static.epg.best/pl/TVN24.pl.png" tvg-chno="21" channel-id="21" group-title="Undefined",TVN 24 SD
+http://89.187.179.242:1523
+#EXTINF:-1 tvg-id="TVN24BiznesSwiat.pl" tvg-name="TVN 24 BIS SD" tvg-logo="https://static.epg.best/pl/TVN24BiznesSwiat.pl.png" tvg-chno="22" channel-id="22" group-title="Undefined",TVN 24 BIS SD
+http://89.187.179.242:1526
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabula SD" tvg-logo="https://static.epg.best/pl/TVNFabula.pl.png" tvg-chno="23" channel-id="23" group-title="Undefined",TVN Fabula SD
+http://89.187.179.242:12177
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabula HD" tvg-logo="https://static.epg.best/pl/TVNFabula.pl.png" tvg-chno="24" channel-id="24" group-title="Undefined",TVN Fabula HD
+http://178.219.128.68:64889/TVNFABUHD
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV HD" tvg-logo="https://static.epg.best/pl/HGTV.pl.png" tvg-chno="25" channel-id="25" group-title="Undefined",HGTV HD
+http://178.219.128.68:64889/HGTVHD
+#EXTINF:-1 tvg-id="Domo.pl" tvg-name="Domo+ SD" tvg-logo="https://static.epg.best/pl/Domo.pl.png" tvg-chno="26" channel-id="26" group-title="Undefined",Domo+ SD
+http://89.187.179.242:1535
+#EXTINF:-1 tvg-id="Domo.pl" tvg-name="Domo+ HD" tvg-logo="https://static.epg.best/pl/Domo.pl.png" tvg-chno="27" channel-id="27" group-title="Undefined",Domo+ HD
+http://178.219.128.68:64889/DOMOHD
+#EXTINF:-1 tvg-id="Planete.pl" tvg-name="Planete SD" tvg-logo="https://static.epg.best/pl/Planete.pl.png" tvg-chno="28" channel-id="28" group-title="Undefined",Planete SD
+http://89.187.179.242:1585
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="Canal+ Premium SD" tvg-logo="https://static.epg.best/pl/CanalPlusPremium.pl.png" tvg-chno="29" channel-id="29" group-title="Undefined",Canal+ Premium SD
+http://89.187.179.242:1623
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal+1 HD" tvg-logo="https://static.epg.best/pl/CanalPlus1.pl.png" tvg-chno="30" channel-id="30" group-title="Undefined",Canal+1 HD
+http://45.65.112.49:8000/play/a04i
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film SD" tvg-logo="https://static.epg.best/pl/CanalPlusFilm.pl.png" tvg-chno="31" channel-id="31" group-title="Undefined",Canal+ Film SD
+http://89.187.179.242:1624
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film HD" tvg-logo="https://static.epg.best/pl/CanalPlusFilm.pl.png" tvg-chno="32" channel-id="32" group-title="Undefined",Canal+ Film HD
+http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale SD" tvg-logo="https://static.epg.best/pl/CanalPlusSeriale.pl.png" tvg-chno="33" channel-id="33" group-title="Undefined",Canal+ Seriale SD
+http://89.187.179.242:1625
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal+ Seriale HD" tvg-logo="https://static.epg.best/pl/CanalPlusSeriale.pl.png" tvg-chno="34" channel-id="34" group-title="Undefined",Canal+ Seriale HD
+http://178.219.128.68:64888/CANASERIHD
+#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="Ale Kino SD •" tvg-logo="https://static.epg.best/pl/AleKino.pl.png" tvg-chno="35" channel-id="35" group-title="Undefined",Ale Kino SD •
+https://cdn-nvm-chicago.lolokoko.tv/alekino.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="Ale Kino SD" tvg-logo="https://static.epg.best/pl/AleKino.pl.png" tvg-chno="36" channel-id="36" group-title="Undefined",Ale Kino SD
+http://89.187.179.242:1534
+#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="Ale Kino HD" tvg-logo="https://static.epg.best/pl/AleKino.pl.png" tvg-chno="37" channel-id="37" group-title="Undefined",Ale Kino HD
+http://178.219.128.68:64889/ALEKINOHD
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax SD •" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" tvg-chno="38" channel-id="38" group-title="Undefined",Cinemax SD •
+https://cdn-nvm-chicago.lolokoko.tv/CinemaxHD.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 SD" tvg-logo="https://static.epg.best/pl/Cinemax2.pl.png" tvg-chno="39" channel-id="39" group-title="Undefined",Cinemax 2 SD
+http://89.187.179.242:12462
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO SD •" tvg-logo="https://static.epg.best/pl/HBO.pl.png" tvg-chno="40" channel-id="40" group-title="Undefined",HBO SD •
+https://cdn-nvm-chicago.lolokoko.tv/HBO.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO HD" tvg-logo="https://static.epg.best/pl/HBO.pl.png" tvg-chno="41" channel-id="41" group-title="Undefined",HBO HD
+http://178.219.128.68:64888/HBOHD
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2 SD •" tvg-logo="https://static.epg.best/pl/HBO2.pl.png" tvg-chno="42" channel-id="42" group-title="Undefined",HBO 2 SD •
+https://cdn-nvm-chicago.lolokoko.tv/HBO2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2 HD" tvg-logo="https://static.epg.best/pl/HBO2.pl.png" tvg-chno="43" channel-id="43" group-title="Undefined",HBO 2 HD
+http://178.219.128.68:64888/HBO2HD
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3 SD •" tvg-logo="https://static.epg.best/pl/HBO3.pl.png" tvg-chno="44" channel-id="44" group-title="Undefined",HBO 3 SD •
+https://cdn-nvm-chicago.lolokoko.tv/HBO3.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3 HD" tvg-logo="https://static.epg.best/pl/HBO3.pl.png" tvg-chno="45" channel-id="45" group-title="Undefined",HBO 3 HD
+http://178.219.128.68:64888/HBO3HD
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="AMC SD •" tvg-logo="https://static.epg.best/pl/AMC.pl.png" tvg-chno="46" channel-id="46" group-title="Undefined",AMC SD •
+https://cdn-nvm-chicago.lolokoko.tv/amc.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV SD•" tvg-logo="" tvg-chno="47" channel-id="47" group-title="Undefined",Warner TV SD•
+https://cdn-nvm-chicago.lolokoko.tv/TNT.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD" tvg-logo="" tvg-chno="48" channel-id="48" group-title="Undefined",Warner TV HD
+http://178.219.128.68:64888/TNTHD
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica SD •" tvg-logo="https://static.epg.best/pl/13Ulica.pl.png" tvg-chno="49" channel-id="49" group-title="Undefined",13 Ulica SD •
+https://cdn-nvm-chicago.lolokoko.tv/13Ulica.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica SD" tvg-logo="https://static.epg.best/pl/13Ulica.pl.png" tvg-chno="50" channel-id="50" group-title="Undefined",13 Ulica SD
+http://89.187.179.242:12058
+#EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="SciFi SD •" tvg-logo="https://static.epg.best/pl/ScifiUniversal.pl.png" tvg-chno="51" channel-id="51" group-title="Undefined",SciFi SD •
+https://cdn-nvm-chicago.lolokoko.tv/SciFi.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FX SD •" tvg-logo="https://static.epg.best/pl/FOX.pl.png" tvg-chno="52" channel-id="52" group-title="Undefined",FX SD •
+https://cdn-nvm-chicago.lolokoko.tv/FOXPolska.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FX SD" tvg-logo="https://static.epg.best/pl/FOX.pl.png" tvg-chno="53" channel-id="53" group-title="Undefined",FX SD
+http://89.187.179.242:12477
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FX HD" tvg-logo="https://static.epg.best/pl/FOX.pl.png" tvg-chno="54" channel-id="54" group-title="Undefined",FX HD
+http://178.219.128.68:64889/FOXHD
+#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="Filmbox Extra SD •" tvg-logo="https://static.epg.best/pl/FilmboxExtra.pl.png" tvg-chno="55" channel-id="55" group-title="Undefined",Filmbox Extra SD •
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="FilmboxExtra.pl" tvg-name="Filmbox Extra HD" tvg-logo="https://static.epg.best/pl/FilmboxExtra.pl.png" tvg-chno="56" channel-id="56" group-title="Undefined",Filmbox Extra HD
+http://146.59.54.163/FilmBox-Extra-HD/index.m3u8
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN SD" tvg-logo="https://static.epg.best/pl/AXN.pl.png" tvg-chno="57" channel-id="57" group-title="Undefined",AXN SD
+http://89.187.179.242:1552
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN SD" tvg-logo="https://static.epg.best/pl/AXN.pl.png" tvg-chno="58" channel-id="58" group-title="Undefined",AXN SD
+http://178.219.128.68:64888/AXN
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black SD" tvg-logo="https://static.epg.best/pl/AXNBlack.pl.png" tvg-chno="59" channel-id="59" group-title="Undefined",AXN Black SD
+http://89.187.179.242:12170
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin SD" tvg-logo="https://static.epg.best/pl/AXNSpin.pl.png" tvg-chno="60" channel-id="60" group-title="Undefined",AXN Spin SD
+http://89.187.179.242:12453
+#EXTINF:-1 tvg-id="EpicDrama.pl" tvg-name="Epic Drama SD" tvg-logo="https://static.epg.best/pl/EpicDrama.pl.png" tvg-chno="61" channel-id="61" group-title="Undefined",Epic Drama SD
+http://89.187.179.242:1555
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood SD •" tvg-logo="" tvg-chno="62" channel-id="62" group-title="Undefined",Bollywood SD •
+https://cdn-nvm-chicago.lolokoko.tv/bollywood.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV SD •" tvg-logo="https://static.epg.best/pl/RomanceTV.pl.png" tvg-chno="63" channel-id="63" group-title="Undefined",Romance TV SD •
+https://cdn-nvm-chicago.lolokoko.tv/Romance.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="BBC First SD •" tvg-logo="https://static.epg.best/pl/BBC.pl.png" tvg-chno="64" channel-id="64" group-title="Undefined",BBC First SD •
+https://cdn-nvm-chicago.lolokoko.tv/bbcbritpolska.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="BBC Brit HD" tvg-logo="https://static.epg.best/pl/BBCBrit.pl.png" tvg-chno="65" channel-id="65" group-title="Undefined",BBC Brit HD
+http://178.219.128.68:64889/BBCBRITHD
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="DTX HD" tvg-logo="https://static.epg.best/pl/DiscoveryTurboXtra.pl.png" tvg-chno="66" channel-id="66" group-title="Undefined",DTX HD
+http://178.219.128.68:64888/DTXHD
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery SD" tvg-logo="https://static.epg.best/pl/Discovery.pl.png" tvg-chno="67" channel-id="67" group-title="Undefined",Discovery SD
+http://89.187.179.242:1538
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="Discovery Sci SD" tvg-logo="https://static.epg.best/pl/DiscoveryScience.pl.png" tvg-chno="68" channel-id="68" group-title="Undefined",Discovery Sci SD
+http://89.187.179.242:12060
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia SD" tvg-logo="https://static.epg.best/pl/DiscoveryHistoria.pl.png" tvg-chno="69" channel-id="69" group-title="Undefined",Discovery Historia SD
+http://89.187.179.242:1700
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History SD •" tvg-logo="https://static.epg.best/pl/History.pl.png" tvg-chno="70" channel-id="70" group-title="Undefined",History SD •
+https://cdn-nvm-chicago.lolokoko.tv/History.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History SD" tvg-logo="https://static.epg.best/pl/History.pl.png" tvg-chno="71" channel-id="71" group-title="Undefined",History SD
+http://89.187.179.242:12171
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="ID HD" tvg-logo="https://static.epg.best/pl/InvestigationDiscovery.pl.png" tvg-chno="72" channel-id="72" group-title="Undefined",ID HD
+http://178.219.128.68:64888/IDHD
+#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="Polsat Viasat History SD •" tvg-logo="https://static.epg.best/pl/ViasatHistory.pl.png" tvg-chno="73" channel-id="73" group-title="Undefined",Polsat Viasat History SD •
+https://cdn-nvm-chicago.lolokoko.tv/ViasatHistory.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.pl" tvg-name="Polsat Viasat Explore SD •" tvg-logo="https://static.epg.best/pl/ViasatExplore.pl.png" tvg-chno="74" channel-id="74" group-title="Undefined",Polsat Viasat Explore SD •
+https://cdn-nvm-chicago.lolokoko.tv/ViasatExplore.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.pl" tvg-name="Polsat Viasat Nature SD •" tvg-logo="https://static.epg.best/pl/ViasatNature.pl.png" tvg-chno="75" channel-id="75" group-title="Undefined",Polsat Viasat Nature SD •
+https://cdn-nvm-chicago.lolokoko.tv/ViasatNature.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic SD •" tvg-logo="https://static.epg.best/pl/NatGeo.pl.png" tvg-chno="76" channel-id="76" group-title="Undefined",National Geographic SD •
+https://cdn-nvm-chicago.lolokoko.tv/NationalGeographic.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="Nat Geo People SD •" tvg-logo="https://static.epg.best/pl/NatGeoPeople.pl.png" tvg-chno="77" channel-id="77" group-title="Undefined",Nat Geo People SD •
+https://cdn-nvm-chicago.lolokoko.tv/NatGeoPeople.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC HD" tvg-logo="https://static.epg.best/pl/TLC.pl.png" tvg-chno="78" channel-id="78" group-title="Undefined",TLC HD
+http://178.219.128.68:64888/TLCHD
+#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="Food Network SD" tvg-logo="https://static.epg.best/pl/FoodNetwork.pl.png" tvg-chno="79" channel-id="79" group-title="Undefined",Food Network SD
+http://89.187.179.242:1970
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality SD" tvg-logo="https://static.epg.best/pl/CBSReality.pl.png" tvg-chno="80" channel-id="80" group-title="Undefined",CBS Reality SD
+http://89.187.179.242:1551
+#EXTINF:-1 tvg-id="Teletoon.pl" tvg-name="teleTOON+ SD •" tvg-logo="https://static.epg.best/pl/Teletoon.pl.png" tvg-chno="81" channel-id="81" group-title="Undefined",teleTOON+ SD •
+https://cdn-nvm-chicago.lolokoko.tv/teleTOON.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon SD" tvg-logo="https://static.epg.best/pl/Nickelodeon.pl.png" tvg-chno="82" channel-id="82" group-title="Undefined",Nickelodeon SD
+http://178.219.128.68:64889/NICK
+#EXTINF:-1 tvg-id="NickToons.pl" tvg-name="Nicktoons SD •" tvg-logo="https://static.epg.best/pl/NickToons.pl.png" tvg-chno="83" channel-id="83" group-title="Undefined",Nicktoons SD •
+https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FX Comedy SD •" tvg-logo="https://static.epg.best/pl/FoxComedy.pl.png" tvg-chno="84" channel-id="84" group-title="Undefined",FX Comedy SD •
+https://cdn-nvm-chicago.lolokoko.tv/FOXComedy.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central SD •" tvg-logo="https://static.epg.best/pl/ComedyCentral.pl.png" tvg-chno="85" channel-id="85" group-title="Undefined",Comedy Central SD •
+https://cdn-nvm-chicago.lolokoko.tv/ComedyCentralPolska.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV SD •" tvg-logo="https://static.epg.best/pl/MTVPolska.pl.png" tvg-chno="86" channel-id="86" group-title="Undefined",MTV SD •
+https://cdn-nvm-chicago.lolokoko.tv/vivapolska.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV HD" tvg-logo="https://static.epg.best/pl/MTVPolska.pl.png" tvg-chno="87" channel-id="87" group-title="Undefined",MTV HD
+http://178.219.128.68:64888/MTVHD
+#EXTINF:-1 tvg-id="" tvg-name="ESKA Rock SD" tvg-logo="" tvg-chno="88" channel-id="88" group-title="Undefined",ESKA Rock SD
+http://178.219.128.68:64889/ESKAROCKTV
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4Fun TV SD" tvg-logo="https://static.epg.best/pl/4funTV.pl.png" tvg-chno="89" channel-id="89" group-title="Undefined",4Fun TV SD
+http://178.219.128.68:64888/4FUNTV
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4Fun TV SD" tvg-logo="https://static.epg.best/pl/4funTV.pl.png" tvg-chno="90" channel-id="90" group-title="Undefined",4Fun TV SD
+http://178.219.128.68:64888/4FUNKIDS
+#EXTINF:-1 tvg-id="MyDeejay.it" tvg-name="Deejay HD" tvg-logo="https://static.epg.best/it/MyDeejay.it.png" tvg-chno="91" channel-id="91" group-title="Undefined",Deejay HD
+http://146.59.54.163/VH1/index.m3u8
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="Republika SD" tvg-logo="https://static.epg.best/pl/TVRepublika.pl.png" tvg-chno="92" channel-id="92" group-title="Undefined",Republika SD
+http://89.187.179.242:12030
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1 HD" tvg-logo="https://static.epg.best/pl/Eurosport.pl.png" tvg-chno="93" channel-id="93" group-title="Undefined",Eurosport 1 HD
+http://89.187.179.242:1634
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 HD" tvg-logo="https://static.epg.best/pl/Eurosport2.pl.png" tvg-chno="94" channel-id="94" group-title="Undefined",Eurosport 2 HD
+http://89.187.179.242:1635
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport HD" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png" tvg-chno="95" channel-id="95" group-title="Undefined",Canal+ Sport HD
+http://45.65.112.49:8000/play/a03a
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://static.epg.best/pl/CanalPlusSport2.pl.png" tvg-chno="96" channel-id="96" group-title="Undefined",Canal+ Sport 2 HD
+http://45.65.112.49:8000/play/a04j
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 3 HD" tvg-logo="https://static.epg.best/pl/CanalPlusSport3.pl.png" tvg-chno="97" channel-id="97" group-title="Undefined",Canal+ Sport 3 HD
+http://45.65.112.49:8000/play/a0kq
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 4 HD" tvg-logo="https://static.epg.best/pl/CanalPlusSport3.pl.png" tvg-chno="98" channel-id="98" group-title="Undefined",Canal+ Sport 4 HD
+http://45.65.112.49:8000/play/a0kr
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="Canal+ Sport 5 HD" tvg-logo="https://static.epg.best/pl/CanalPlusSport5.pl.png" tvg-chno="99" channel-id="99" group-title="Undefined",Canal+ Sport 5 HD
+http://89.187.179.242:1531
+#EXTINF:-1 tvg-id="CanalPlusSport5.pl" tvg-name="Canal+ Sport 5 HD" tvg-logo="https://static.epg.best/pl/CanalPlusSport5.pl.png" tvg-chno="100" channel-id="100" group-title="Undefined",Canal+ Sport 5 HD
+http://45.65.112.49:8000/play/a0ku
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News SD •" tvg-logo="https://static.epg.best/pl/PolsatSportNews.pl.png" tvg-chno="101" channel-id="101" group-title="Undefined",Polsat Sport News SD •
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="Polsat Sport News HD" tvg-logo="https://static.epg.best/pl/PolsatSportNews.pl.png" tvg-chno="102" channel-id="102" group-title="Undefined",Polsat Sport News HD
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport SD" tvg-logo="https://static.epg.best/pl/PolsatSport.pl.png" tvg-chno="103" channel-id="103" group-title="Undefined",Polsat Sport SD
+http://89.187.179.242:1969
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD" tvg-logo="https://static.epg.best/pl/PolsatSport.pl.png" tvg-chno="104" channel-id="104" group-title="Undefined",Polsat Sport HD
+http://45.65.112.49:8000/play/a08n
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD" tvg-logo="https://static.epg.best/pl/PolsatSport.pl.png" tvg-chno="105" channel-id="105" group-title="Undefined",Polsat Sport HD
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra HD" tvg-logo="https://static.epg.best/pl/PolsatSportExtra.pl.png" tvg-chno="106" channel-id="106" group-title="Undefined",Polsat Sport Extra HD
+http://45.65.112.49:8000/play/a08h
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 SD" tvg-logo="https://static.epg.best/pl/PolsatSportPremium1.pl.png" tvg-chno="107" channel-id="107" group-title="Undefined",Polsat Sport Premium 1 SD
+http://89.187.179.242:12467
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="https://static.epg.best/pl/PolsatSportPremium1.pl.png" tvg-chno="108" channel-id="108" group-title="Undefined",Polsat Sport Premium 1 HD
+http://45.65.112.49:8000/play/a0br
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2 SD" tvg-logo="https://static.epg.best/pl/PolsatSportPremium2.pl.png" tvg-chno="109" channel-id="109" group-title="Undefined",Polsat Sport Premium 2 SD
+http://89.187.179.242:12468
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl" tvg-name="Polsat Sport PPV3 HD" tvg-logo="https://static.epg.best/pl/PolsatSportPremium3.pl.png" tvg-chno="110" channel-id="110" group-title="Undefined",Polsat Sport PPV3 HD
+http://45.65.112.49:8000/play/a0js
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight HD" tvg-logo="https://static.epg.best/pl/PolsatSportFight.pl.png" tvg-chno="111" channel-id="111" group-title="Undefined",Polsat Sport Fight HD
+http://89.187.179.242:12072
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL SD" tvg-logo="https://static.epg.best/de/RTL.de.png" tvg-chno="112" channel-id="112" group-title="Undefined",RTL SD
+http://178.219.128.68:64888/RTL
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 SD" tvg-logo="https://static.epg.best/de/RTL2.de.png" tvg-chno="113" channel-id="113" group-title="Undefined",RTL 2 SD
+http://178.219.128.68:64888/RTL2
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX SD" tvg-logo="https://static.epg.best/de/Vox.de.png" tvg-chno="114" channel-id="114" group-title="Undefined",VOX SD
+http://178.219.128.68:64888/VOX
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT 1 SD" tvg-logo="https://static.epg.best/de/Sat1.de.png" tvg-chno="115" channel-id="115" group-title="Undefined",SAT 1 SD
+http://178.219.128.68:64889/SAT1
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt SD" tvg-logo="https://static.epg.best/de/Welt.de.png" tvg-chno="116" channel-id="116" group-title="Undefined",Welt SD
+http://178.219.128.68:64889/WELT
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY News SD" tvg-logo="https://static.epg.best/uk/SkyNews.uk.png" tvg-chno="117" channel-id="117" group-title="Undefined",SKY News SD
+http://178.219.128.68:64889/SKYNEWS
+#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="WP SD" tvg-logo="https://static.epg.best/pl/WPTelewizja.pl.png" tvg-chno="118" channel-id="118" group-title="Undefined",WP SD
+http://89.187.179.242:1699
+#EXTINF:-1 tvg-id="WPTelewizja.pl" tvg-name="WP HD" tvg-logo="https://static.epg.best/pl/WPTelewizja.pl.png" tvg-chno="119" channel-id="119" group-title="Undefined",WP HD
+http://178.219.128.68:64889/WPHD
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="Puls SD" tvg-logo="https://static.epg.best/pl/TVPuls.pl.png" tvg-chno="120" channel-id="120" group-title="Undefined",Puls SD
+http://89.187.179.242:1543
+#EXTINF:-1 tvg-id="" tvg-name="Puls HD" tvg-logo="" tvg-chno="121" channel-id="121" group-title="Undefined",Puls HD
+http://178.219.128.68:64889/TVPULSHD
+#EXTINF:-1 tvg-id="" tvg-name="Puls 2 HD" tvg-logo="" tvg-chno="122" channel-id="122" group-title="Undefined",Puls 2 HD
+http://89.187.179.242:12134
+#EXTINF:-1 tvg-id="" tvg-name="Puls 2 HD" tvg-logo="" tvg-chno="123" channel-id="123" group-title="Undefined",Puls 2 HD
+http://178.219.128.68:64889/PULS2HD
+#EXTINF:-1 tvg-id="" tvg-name="TVP Kobieta SD" tvg-logo="" tvg-chno="124" channel-id="124" group-title="Undefined",TVP Kobieta SD
+http://89.187.179.242:1532
+#EXTINF:-1 tvg-id="" tvg-name="Kino Polska SD" tvg-logo="" tvg-chno="125" channel-id="125" group-title="Undefined",Kino Polska SD
+http://89.187.179.242:1589
+#EXTINF:-1 tvg-id="" tvg-name="Kino TV HD" tvg-logo="" tvg-chno="126" channel-id="126" group-title="Undefined",Kino TV HD
+http://178.219.128.68:64888/KINOTV
+#EXTINF:-1 tvg-id="" tvg-name="MiniMini  SD" tvg-logo="" tvg-chno="127" channel-id="127" group-title="Undefined",MiniMini  SD
+http://89.187.179.242:1584
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior SD" tvg-logo="" tvg-chno="128" channel-id="128" group-title="Undefined",Disney Junior SD
+http://89.187.179.242:12472
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN PL" tvg-logo="https://static.epg.best/pl/AXN.pl.png" tvg-chno="129" channel-id="129" group-title="(No group)",AXN PL
+https://cdn-nvm-chicago.lolokoko.tv/axnpolska.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White" tvg-logo="https://static.epg.best/pl/AXNWhite.pl.png" tvg-chno="130" channel-id="130" group-title="(No group)",AXN White
+https://cdn-nvm-chicago.lolokoko.tv/axnwhite.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black PL" tvg-logo="https://static.epg.best/pl/AXNBlack.pl.png" tvg-chno="131" channel-id="131" group-title="(No group)",AXN Black PL
+https://cdn-nvm-chicago.lolokoko.tv/axnblack.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin PL" tvg-logo="https://static.epg.best/pl/AXNSpin.pl.png" tvg-chno="132" channel-id="132" group-title="(No group)",AXN Spin PL
+https://cdn-nvm-chicago.lolokoko.tv/axnspin.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal  Film PL" tvg-logo="https://static.epg.best/pl/CanalPlusFilm.pl.png" tvg-chno="133" channel-id="133" group-title="(No group)",Canal  Film PL
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusFilm.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalPlusPremium.pl" tvg-name="Canal  Premium PL" tvg-logo="https://static.epg.best/pl/CanalPlusPremium.pl.png" tvg-chno="134" channel-id="134" group-title="(No group)",Canal  Premium PL
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusHD.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="Canal  Family PL" tvg-logo="https://static.epg.best/pl/CanalPlusFamily.pl.png" tvg-chno="135" channel-id="135" group-title="(No group)",Canal  Family PL
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusFamily.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal  Seriale PL" tvg-logo="https://static.epg.best/pl/CanalPlusSeriale.pl.png" tvg-chno="136" channel-id="136" group-title="(No group)",Canal  Seriale PL
+https://cdn-nvm-chicago.lolokoko.tv/CanalPlusSeriale.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="Canal  Sport 2 PL" tvg-logo="https://static.epg.best/pl/CanalPlusSport2.pl.png" tvg-chno="137" channel-id="137" group-title="(No group)",Canal  Sport 2 PL
+https://cdn-nvm-chicago.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal  Sport 3 PL" tvg-logo="https://static.epg.best/pl/CanalPlusSport3.pl.png" tvg-chno="138" channel-id="138" group-title="(No group)",Canal  Sport 3 PL
+https://cdn-nvm-chicago.lolokoko.tv/canalplussport3.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="Canal  Sport 4 PL" tvg-logo="https://static.epg.best/pl/CanalPlusSport4.pl.png" tvg-chno="139" channel-id="139" group-title="(No group)",Canal  Sport 4 PL
+https://cdn-nvm-chicago.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Eurosport.pl" tvg-name="Eurosport 1" tvg-logo="https://static.epg.best/pl/Eurosport.pl.png" tvg-chno="140" channel-id="140" group-title="(No group)",Eurosport 1
+https://cdn-nvm-chicago.lolokoko.tv/Eurosport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2" tvg-logo="https://static.epg.best/pl/Eurosport2.pl.png" tvg-chno="141" channel-id="141" group-title="(No group)",Eurosport 2
+https://cdn-nvm-chicago.lolokoko.tv/Eurosport2polska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="Fightbox HD" tvg-logo="https://static.epg.best/pl/FightBox.pl.png" tvg-chno="142" channel-id="142" group-title="(No group)",Fightbox HD
+https://cdn-nvm-chicago.lolokoko.tv/Fightbox.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="https://static.epg.best/pl/FilmBoxAction.pl.png" tvg-chno="143" channel-id="143" group-title="(No group)",FilmBox Action PL
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxAction.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="https://static.epg.best/pl/FilmboxFamily.pl.png" tvg-chno="144" channel-id="144" group-title="(No group)",FilmBox Family PL
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxFamily.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="FilmBoxArtHouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="https://static.epg.best/pl/FilmBoxArtHouse.pl.png" tvg-chno="145" channel-id="145" group-title="(No group)",FilmBox Arthouse PL
+https://cdn-nvm-chicago.lolokoko.tv/FilmBoxArthouse.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4Fun TV PL" tvg-logo="https://static.epg.best/pl/4funTV.pl.png" tvg-chno="146" channel-id="146" group-title="(No group)",4Fun TV PL
+https://cdn-nvm-chicago.lolokoko.tv/4funtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="4Fun Dance PL" tvg-logo="https://static.epg.best/pl/4FunDance.pl.png" tvg-chno="147" channel-id="147" group-title="(No group)",4Fun Dance PL
+https://cdn-nvm-chicago.lolokoko.tv/4fundance.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="KinoTV.pl" tvg-name="Kino TV PL" tvg-logo="https://static.epg.best/pl/KinoTV.pl.png" tvg-chno="148" channel-id="148" group-title="(No group)",Kino TV PL
+https://cdn-nvm-chicago.lolokoko.tv/filmbox.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV PL" tvg-logo="" tvg-chno="149" channel-id="149" group-title="(No group)",MTV PL
+https://cdn-nvm-chicago.lolokoko.tv/mtvpolska.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="NovelaTV.pl" tvg-name="Novela TV PL" tvg-logo="https://static.epg.best/pl/NovelaTV.pl.png" tvg-chno="150" channel-id="150" group-title="(No group)",Novela TV PL
+https://cdn-nvm-chicago.lolokoko.tv/Novela.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1 PL" tvg-logo="https://static.epg.best/pl/Polonia1.pl.png" tvg-chno="151" channel-id="151" group-title="(No group)",Polonia 1 PL
+https://cdn-nvm-chicago.lolokoko.tv/Polonia1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat HD PL" tvg-logo="" tvg-chno="152" channel-id="152" group-title="(No group)",Polsat HD PL
+https://cdn-nvm-chicago.lolokoko.tv/Polsat.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 PL" tvg-logo="https://static.epg.best/pl/Polsat2.pl.png" tvg-chno="153" channel-id="153" group-title="(No group)",Polsat 2 PL
+https://cdn-nvm-chicago.lolokoko.tv/Polsat2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport PL" tvg-logo="https://static.epg.best/pl/PolsatSport.pl.png" tvg-chno="154" channel-id="154" group-title="(No group)",Polsat Sport PL
+https://cdn-nvm-chicago.lolokoko.tv/polsatsport.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra PL" tvg-logo="https://static.epg.best/pl/PolsatSportExtra.pl.png" tvg-chno="155" channel-id="155" group-title="(No group)",Polsat Sport Extra PL
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport 1" tvg-logo="" tvg-chno="156" channel-id="156" group-title="(No group)",Polsat Sport 1
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport 2" tvg-logo="" tvg-chno="157" channel-id="157" group-title="(No group)",Polsat Sport 2
+https://cdn-nvm-chicago.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat PL" tvg-logo="https://static.epg.best/pl/SuperPolsat.pl.png" tvg-chno="158" channel-id="158" group-title="(No group)",Super Polsat PL
+http://cdn-global.lolokoko.tv/SuperPolsat.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="TELE 5 PL" tvg-logo="https://static.epg.best/pl/Tele5.pl.png" tvg-chno="159" channel-id="159" group-title="(No group)",TELE 5 PL
+https://cdn-nvm-chicago.lolokoko.tv/Tele5.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV PULS PL" tvg-logo="https://static.epg.best/pl/TVPuls.pl.png" tvg-chno="160" channel-id="160" group-title="(No group)",TV PULS PL
+https://cdn-nvm-chicago.lolokoko.tv/TVPuls.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia PL" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" tvg-chno="161" channel-id="161" group-title="(No group)",TVP Polonia PL
+https://cdn-nvm-chicago.lolokoko.tv/tvppolonia.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 PL" tvg-logo="https://static.epg.best/pl/TVP1.pl.png" tvg-chno="162" channel-id="162" group-title="(No group)",TVP 1 PL
+https://cdn-nvm-chicago.lolokoko.tv/TVP1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 PL" tvg-logo="https://static.epg.best/pl/TVP2.pl.png" tvg-chno="163" channel-id="163" group-title="(No group)",TVP 2 PL
+https://cdn-nvm-chicago.lolokoko.tv/TVP2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 PL" tvg-logo="https://static.epg.best/pl/TV4.pl.png" tvg-chno="164" channel-id="164" group-title="(No group)",TV 4 PL
+https://cdn-nvm-chicago.lolokoko.tv/TV4.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV 6 PL" tvg-logo="https://static.epg.best/pl/TV6.pl.png" tvg-chno="165" channel-id="165" group-title="(No group)",TV 6 PL
+https://cdn-nvm-chicago.lolokoko.tv/TV6.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV PL" tvg-logo="https://static.epg.best/pl/StarsTV.pl.png" tvg-chno="166" channel-id="166" group-title="(No group)",Stars TV PL
+https://cdn-nvm-chicago.lolokoko.tv/starstv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" tvg-chno="167" channel-id="167" group-title="(No group)",Nickelodeon
+https://cdn-nvm-chicago.lolokoko.tv/Nickelodeon.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" tvg-chno="168" channel-id="168" group-title="(No group)",Nick Jr
+https://cdn-nvm-chicago.lolokoko.tv/NickJr.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Music" tvg-logo="" tvg-chno="169" channel-id="169" group-title="(No group)",Nick Music
+https://cdn-nvm-chicago.lolokoko.tv/NickMusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV" tvg-logo="" tvg-chno="170" channel-id="170" group-title="(No group)",Eska TV
+https://cdn-nvm-chicago.lolokoko.tv/Eskatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="" tvg-chno="171" channel-id="171" group-title="(No group)",Epic Drama
+https://cdn-nvm-chicago.lolokoko.tv/EpicDrama.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nuta" tvg-logo="" tvg-chno="172" channel-id="172" group-title="(No group)",Nuta
+https://cdn-nvm-chicago.lolokoko.tv/nuta.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" tvg-chno="173" channel-id="173" group-title="(No group)",MTV
+https://cdn-nvm-chicago.lolokoko.tv/mtvpolska.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport" tvg-logo="" tvg-chno="174" channel-id="174" group-title="(No group)",Eleven Sport
+https://cdn-nvm-chicago.lolokoko.tv/Eleven2polska.stream/playlist.m3u8
