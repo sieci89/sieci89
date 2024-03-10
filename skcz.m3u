@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="Undefined",Jednotka (960p)
+http://213.81.133.133:8080/jednotka/index.m3u8
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-logo="https://i.imgur.com/ft10wQn.png" group-title="Undefined",Dvojka (960p)
+http://213.81.133.133:8080/dvojka/index.m3u8
+#EXTINF:-1 tvg-id="24.sk" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Undefined",24 (960p)
+https://sktv-forwarders.7m.pl/get.php?x=STV24
+#EXTINF:-1 tvg-id="Sport.sk" tvg-logo="https://i.imgur.com/YzHipRF.png" group-title="Undefined",RTVS Šport (960p)
+https://sktv-forwarders.7m.pl/get.php?x=SPORT
+#EXTINF:-1 tvg-id="MarkizaDajto.sk" tvg-logo="https://i.imgur.com/DdWj4xv.png" group-title="Undefined",DajTo (960p)
+http://213.81.133.133:8080/dajto/index.m3u8
+#EXTINF:-1 tvg-id="JOJWAU.sk" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Undefined",WAU (1080p)
+https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+#EXTINF:-1 tvg-id="TVJOJ.sk" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Undefined",JOJ (1080p)
+https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Undefined",JOJ Plus (1080p)
+https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
+#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Undefined",JOJ 24 (1080p)
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Undefined",JOJ Šport (1080p)
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Undefined",ČT1
+https://sktv-forwarders.7m.pl/get.php?x=CT1
+#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Undefined",ČT2
+https://sktv-forwarders.7m.pl/get.php?x=CT2
+#EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Undefined",ČT24
+https://sktv-forwarders.7m.pl/get.php?x=CT24
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Undefined",ČT sport
+https://sktv-forwarders.7m.pl/get.php?x=CTsport
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-logo="https://i.imgur.com/Pa5rLpA.png" group-title="Undefined",ČT :D
+https://sktv-forwarders.7m.pl/get.php?x=CT_D
+#EXTINF:-1 tvg-id="iprima.cz" tvg-logo="" group-title="Undefined",Prima HD
+http://146.59.85.40:89/primahd/mono.m3u8
+#EXTINF:-1 tvg-id="iprima.cz" tvg-logo="" group-title="Undefined",Prima Love
+http://146.59.85.40:89/primalovehd/mono.m3u8
+#EXTINF:-1 tvg-id="iprima.cz" tvg-logo="" group-title="Undefined",Prima Cool
+http://146.59.85.40:89/primacoolhd/mono.m3u8
+#EXTINF:-1 tvg-id="iprima.cz" tvg-logo="" group-title="Undefined",Prima Zoom
+http://146.59.85.40:89/primazoomhd/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://46.36.40.22/1024/primalovehd.png" group-title="Undefined",Paramount Cz http://146.59.85.40:89/primakrimihd/mono.m3u8
+
+
+
